@@ -2,6 +2,7 @@
 Kumpulan simulasi gerbang logika dasar hingga rangkaian digital kompleks menggunakan Proteus.
 
 🚪PENGERTIAN GERBANG LOGIKA
+
   Gerbang logika adalah blok bangunan dasar dari sistem digital. Setiap gerbang menerima satu atau lebih masukan (*input*) biner (0 atau 1) dan menghasilkan satu keluaran (*output*) biner berdasarkan aturan logika tertentu.
 
 
